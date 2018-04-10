@@ -1,0 +1,110 @@
+D:\Projects\Epam\Automation\Downloads\AutoTest\AutoTest\bin\Debug\NUnit3.TestAdapter.dll
+D:\Projects\Epam\Automation\Downloads\AutoTest\AutoTest\bin\Debug\nunit.engine.dll
+D:\Projects\Epam\Automation\Downloads\AutoTest\AutoTest\bin\Debug\nunit.engine.api.dll
+D:\Projects\Epam\Automation\Downloads\AutoTest\AutoTest\bin\Debug\Mono.Cecil.dll
+D:\Projects\Epam\Automation\Downloads\AutoTest\AutoTest\bin\Debug\AutoTest.dll
+D:\Projects\Epam\Automation\Downloads\AutoTest\AutoTest\bin\Debug\AutoTest.pdb
+D:\Projects\Epam\Automation\Downloads\AutoTest\AutoTest\bin\Debug\nunit.framework.dll
+D:\Projects\Epam\Automation\Downloads\AutoTest\AutoTest\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\Projects\Epam\Automation\Downloads\AutoTest\AutoTest\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\Projects\Epam\Automation\Downloads\AutoTest\AutoTest\bin\Debug\WebDriver.dll
+D:\Projects\Epam\Automation\Downloads\AutoTest\AutoTest\bin\Debug\WebDriver.Support.dll
+D:\Projects\Epam\Automation\Downloads\AutoTest\AutoTest\bin\Debug\nunit.framework.xml
+D:\Projects\Epam\Automation\Downloads\AutoTest\AutoTest\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+D:\Projects\Epam\Automation\Downloads\AutoTest\AutoTest\bin\Debug\ThoughtWorks.Selenium.Core.xml
+D:\Projects\Epam\Automation\Downloads\AutoTest\AutoTest\bin\Debug\WebDriver.xml
+D:\Projects\Epam\Automation\Downloads\AutoTest\AutoTest\bin\Debug\WebDriver.Support.xml
+D:\Projects\Epam\Automation\Downloads\AutoTest\AutoTest\obj\Debug\AutoTest.csprojResolveAssemblyReference.cache
+D:\Projects\Epam\Automation\Downloads\AutoTest\AutoTest\obj\Debug\AutoTest.csproj.CoreCompileInputs.cache
+D:\Projects\Epam\Automation\Downloads\AutoTest\AutoTest\obj\Debug\AutoTest.dll
+D:\Projects\Epam\Automation\Downloads\AutoTest\AutoTest\obj\Debug\AutoTest.pdb
+D:\Projects\Epam\Automation\Downloads\AutoTest\AutoTest\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Projects\Epam\Automation\Downloads\AutoTest\AutoTest\bin\Debug\nunit.framework.pdb
+D:\Projects\Epam\Automation\1. Generally about automation\AutoTest\AutoTest\bin\Debug\NUnit3.TestAdapter.dll
+D:\Projects\Epam\Automation\1. Generally about automation\AutoTest\AutoTest\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Projects\Epam\Automation\1. Generally about automation\AutoTest\AutoTest\bin\Debug\nunit.engine.dll
+D:\Projects\Epam\Automation\1. Generally about automation\AutoTest\AutoTest\bin\Debug\nunit.engine.api.dll
+D:\Projects\Epam\Automation\1. Generally about automation\AutoTest\AutoTest\bin\Debug\Mono.Cecil.dll
+D:\Projects\Epam\Automation\1. Generally about automation\AutoTest\AutoTest\bin\Debug\AutoTest.dll
+D:\Projects\Epam\Automation\1. Generally about automation\AutoTest\AutoTest\bin\Debug\AutoTest.pdb
+D:\Projects\Epam\Automation\1. Generally about automation\AutoTest\AutoTest\bin\Debug\nunit.framework.dll
+D:\Projects\Epam\Automation\1. Generally about automation\AutoTest\AutoTest\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\Projects\Epam\Automation\1. Generally about automation\AutoTest\AutoTest\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\Projects\Epam\Automation\1. Generally about automation\AutoTest\AutoTest\bin\Debug\WebDriver.dll
+D:\Projects\Epam\Automation\1. Generally about automation\AutoTest\AutoTest\bin\Debug\WebDriver.Support.dll
+D:\Projects\Epam\Automation\1. Generally about automation\AutoTest\AutoTest\bin\Debug\nunit.framework.pdb
+D:\Projects\Epam\Automation\1. Generally about automation\AutoTest\AutoTest\bin\Debug\nunit.framework.xml
+D:\Projects\Epam\Automation\1. Generally about automation\AutoTest\AutoTest\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+D:\Projects\Epam\Automation\1. Generally about automation\AutoTest\AutoTest\bin\Debug\ThoughtWorks.Selenium.Core.xml
+D:\Projects\Epam\Automation\1. Generally about automation\AutoTest\AutoTest\bin\Debug\WebDriver.xml
+D:\Projects\Epam\Automation\1. Generally about automation\AutoTest\AutoTest\bin\Debug\WebDriver.Support.xml
+D:\Projects\Epam\Automation\1. Generally about automation\AutoTest\AutoTest\obj\Debug\AutoTest.csprojResolveAssemblyReference.cache
+D:\Projects\Epam\Automation\1. Generally about automation\AutoTest\AutoTest\obj\Debug\AutoTest.csproj.CoreCompileInputs.cache
+D:\Projects\Epam\Automation\1. Generally about automation\AutoTest\AutoTest\obj\Debug\AutoTest.dll
+D:\Projects\Epam\Automation\1. Generally about automation\AutoTest\AutoTest\obj\Debug\AutoTest.pdb
+D:\Projects\Epam\Automation\2. Selenium\AutoTest\AutoTest\bin\Debug\NUnit3.TestAdapter.dll
+D:\Projects\Epam\Automation\2. Selenium\AutoTest\AutoTest\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Projects\Epam\Automation\2. Selenium\AutoTest\AutoTest\bin\Debug\nunit.engine.dll
+D:\Projects\Epam\Automation\2. Selenium\AutoTest\AutoTest\bin\Debug\nunit.engine.api.dll
+D:\Projects\Epam\Automation\2. Selenium\AutoTest\AutoTest\bin\Debug\Mono.Cecil.dll
+D:\Projects\Epam\Automation\2. Selenium\AutoTest\AutoTest\bin\Debug\AutoTest.dll
+D:\Projects\Epam\Automation\2. Selenium\AutoTest\AutoTest\bin\Debug\AutoTest.pdb
+D:\Projects\Epam\Automation\2. Selenium\AutoTest\AutoTest\bin\Debug\nunit.framework.dll
+D:\Projects\Epam\Automation\2. Selenium\AutoTest\AutoTest\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\Projects\Epam\Automation\2. Selenium\AutoTest\AutoTest\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\Projects\Epam\Automation\2. Selenium\AutoTest\AutoTest\bin\Debug\WebDriver.dll
+D:\Projects\Epam\Automation\2. Selenium\AutoTest\AutoTest\bin\Debug\WebDriver.Support.dll
+D:\Projects\Epam\Automation\2. Selenium\AutoTest\AutoTest\bin\Debug\nunit.framework.pdb
+D:\Projects\Epam\Automation\2. Selenium\AutoTest\AutoTest\bin\Debug\nunit.framework.xml
+D:\Projects\Epam\Automation\2. Selenium\AutoTest\AutoTest\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+D:\Projects\Epam\Automation\2. Selenium\AutoTest\AutoTest\bin\Debug\ThoughtWorks.Selenium.Core.xml
+D:\Projects\Epam\Automation\2. Selenium\AutoTest\AutoTest\bin\Debug\WebDriver.xml
+D:\Projects\Epam\Automation\2. Selenium\AutoTest\AutoTest\bin\Debug\WebDriver.Support.xml
+D:\Projects\Epam\Automation\2. Selenium\AutoTest\AutoTest\obj\Debug\AutoTest.csprojResolveAssemblyReference.cache
+D:\Projects\Epam\Automation\2. Selenium\AutoTest\AutoTest\obj\Debug\AutoTest.csproj.CoreCompileInputs.cache
+D:\Projects\Epam\Automation\2. Selenium\AutoTest\AutoTest\obj\Debug\AutoTest.dll
+D:\Projects\Epam\Automation\2. Selenium\AutoTest\AutoTest\obj\Debug\AutoTest.pdb
+D:\Projects\Epam\Automation\2. Selenium\Chrome\AutoTest\bin\Debug\NUnit3.TestAdapter.dll
+D:\Projects\Epam\Automation\2. Selenium\Chrome\AutoTest\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Projects\Epam\Automation\2. Selenium\Chrome\AutoTest\bin\Debug\nunit.engine.dll
+D:\Projects\Epam\Automation\2. Selenium\Chrome\AutoTest\bin\Debug\nunit.engine.api.dll
+D:\Projects\Epam\Automation\2. Selenium\Chrome\AutoTest\bin\Debug\Mono.Cecil.dll
+D:\Projects\Epam\Automation\2. Selenium\Chrome\AutoTest\bin\Debug\AutoTest.dll
+D:\Projects\Epam\Automation\2. Selenium\Chrome\AutoTest\bin\Debug\AutoTest.pdb
+D:\Projects\Epam\Automation\2. Selenium\Chrome\AutoTest\bin\Debug\nunit.framework.dll
+D:\Projects\Epam\Automation\2. Selenium\Chrome\AutoTest\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\Projects\Epam\Automation\2. Selenium\Chrome\AutoTest\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\Projects\Epam\Automation\2. Selenium\Chrome\AutoTest\bin\Debug\WebDriver.dll
+D:\Projects\Epam\Automation\2. Selenium\Chrome\AutoTest\bin\Debug\WebDriver.Support.dll
+D:\Projects\Epam\Automation\2. Selenium\Chrome\AutoTest\bin\Debug\nunit.framework.pdb
+D:\Projects\Epam\Automation\2. Selenium\Chrome\AutoTest\bin\Debug\nunit.framework.xml
+D:\Projects\Epam\Automation\2. Selenium\Chrome\AutoTest\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+D:\Projects\Epam\Automation\2. Selenium\Chrome\AutoTest\bin\Debug\ThoughtWorks.Selenium.Core.xml
+D:\Projects\Epam\Automation\2. Selenium\Chrome\AutoTest\bin\Debug\WebDriver.xml
+D:\Projects\Epam\Automation\2. Selenium\Chrome\AutoTest\bin\Debug\WebDriver.Support.xml
+D:\Projects\Epam\Automation\2. Selenium\Chrome\AutoTest\obj\Debug\AutoTest.csprojResolveAssemblyReference.cache
+D:\Projects\Epam\Automation\2. Selenium\Chrome\AutoTest\obj\Debug\AutoTest.csproj.CoreCompileInputs.cache
+D:\Projects\Epam\Automation\2. Selenium\Chrome\AutoTest\obj\Debug\AutoTest.dll
+D:\Projects\Epam\Automation\2. Selenium\Chrome\AutoTest\obj\Debug\AutoTest.pdb
+D:\Projects\Epam\Automation\2. Selenium Chrome Driver\FirefoxDriver\1\AutoTest\bin\Debug\NUnit3.TestAdapter.dll
+D:\Projects\Epam\Automation\2. Selenium Chrome Driver\FirefoxDriver\1\AutoTest\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Projects\Epam\Automation\2. Selenium Chrome Driver\FirefoxDriver\1\AutoTest\bin\Debug\nunit.engine.dll
+D:\Projects\Epam\Automation\2. Selenium Chrome Driver\FirefoxDriver\1\AutoTest\bin\Debug\nunit.engine.api.dll
+D:\Projects\Epam\Automation\2. Selenium Chrome Driver\FirefoxDriver\1\AutoTest\bin\Debug\Mono.Cecil.dll
+D:\Projects\Epam\Automation\2. Selenium Chrome Driver\FirefoxDriver\1\AutoTest\bin\Debug\AutoTest.dll
+D:\Projects\Epam\Automation\2. Selenium Chrome Driver\FirefoxDriver\1\AutoTest\bin\Debug\AutoTest.pdb
+D:\Projects\Epam\Automation\2. Selenium Chrome Driver\FirefoxDriver\1\AutoTest\bin\Debug\nunit.framework.dll
+D:\Projects\Epam\Automation\2. Selenium Chrome Driver\FirefoxDriver\1\AutoTest\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\Projects\Epam\Automation\2. Selenium Chrome Driver\FirefoxDriver\1\AutoTest\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\Projects\Epam\Automation\2. Selenium Chrome Driver\FirefoxDriver\1\AutoTest\bin\Debug\WebDriver.dll
+D:\Projects\Epam\Automation\2. Selenium Chrome Driver\FirefoxDriver\1\AutoTest\bin\Debug\WebDriver.Support.dll
+D:\Projects\Epam\Automation\2. Selenium Chrome Driver\FirefoxDriver\1\AutoTest\bin\Debug\nunit.framework.pdb
+D:\Projects\Epam\Automation\2. Selenium Chrome Driver\FirefoxDriver\1\AutoTest\bin\Debug\nunit.framework.xml
+D:\Projects\Epam\Automation\2. Selenium Chrome Driver\FirefoxDriver\1\AutoTest\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+D:\Projects\Epam\Automation\2. Selenium Chrome Driver\FirefoxDriver\1\AutoTest\bin\Debug\ThoughtWorks.Selenium.Core.xml
+D:\Projects\Epam\Automation\2. Selenium Chrome Driver\FirefoxDriver\1\AutoTest\bin\Debug\WebDriver.xml
+D:\Projects\Epam\Automation\2. Selenium Chrome Driver\FirefoxDriver\1\AutoTest\bin\Debug\WebDriver.Support.xml
+D:\Projects\Epam\Automation\2. Selenium Chrome Driver\FirefoxDriver\1\AutoTest\obj\Debug\AutoTest.csprojResolveAssemblyReference.cache
+D:\Projects\Epam\Automation\2. Selenium Chrome Driver\FirefoxDriver\1\AutoTest\obj\Debug\AutoTest.csproj.CoreCompileInputs.cache
+D:\Projects\Epam\Automation\2. Selenium Chrome Driver\FirefoxDriver\1\AutoTest\obj\Debug\AutoTest.dll
+D:\Projects\Epam\Automation\2. Selenium Chrome Driver\FirefoxDriver\1\AutoTest\obj\Debug\AutoTest.pdb
